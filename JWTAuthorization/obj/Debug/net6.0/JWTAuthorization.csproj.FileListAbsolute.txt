@@ -34,3 +34,12 @@
 /Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
 /Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
 /Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Scrutor.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/kavanpreetsingh/Projects/JWTAuthorization/JWTAuthorization/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
