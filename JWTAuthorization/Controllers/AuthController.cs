@@ -96,6 +96,10 @@ namespace JWTAuthorization.Controllers
             }
         }
 
+        private bool TestGitMethod()
+        {
+            return true;
+        }
     }
 }
 
